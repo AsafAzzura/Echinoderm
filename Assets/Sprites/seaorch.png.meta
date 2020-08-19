@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 0e37512bf02c13e4999b43285a7f66d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: seaorch_0
+  - first:
+      213: 21300002
+    second: seaorch_1
+  - first:
+      213: 21300004
+    second: seaorch_2
+  - first:
+      213: 21300006
+    second: seaorch_3
+  - first:
+      213: 21300008
+    second: seaorch_4
+  - first:
+      213: 21300010
+    second: seaorch_5
+  - first:
+      213: 21300012
+    second: seaorch_6
+  - first:
+      213: 21300014
+    second: seaorch_7
+  - first:
+      213: 21300016
+    second: seaorch_8
+  - first:
+      213: 21300018
+    second: seaorch_9
+  - first:
+      213: 21300020
+    second: seaorch_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seaorch_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 205
+        width: 218
+        height: 229
+      alignment: 9
+      pivot: {x: 0.5300493, y: 0.10171882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065ee7ee90797d64ab28f558ceb9cad2
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaorch_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 297
+        width: 134
+        height: 142
+      alignment: 9
+      pivot: {x: 0.556407, y: 0.50709724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afb24424d2a3e947a084d121032afbe
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaorch_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 234
+        width: 69
+        height: 39
+      alignment: 9
+      pivot: {x: 0.47078803, y: 0.5129207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec328ae9ce0fb0f46907751b84c9531c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaorch_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 107
+        width: 45
+        height: 69
+      alignment: 9
+      pivot: {x: 0.73515457, y: 0.8213291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd19dd12351547b48b99c2b08d05c40c
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaorch_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 106
+        width: 45
+        height: 69
+      alignment: 9
+      pivot: {x: 0.2648458, y: 0.8651468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d13a5beaea31194a90fd72d33f9508f
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaorch_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 157
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: 0.50000143, y: 0.5695038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18210dc936f2ce941bf648da2259f7ba
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaorch_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 168
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5000014, y: 0.5373258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92b53f6c0a824e41bc1b50e14bfd25f
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaorch_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 19
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.115667604, y: 0.918907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f0ec4359e2ffb4fb693f6d38aa22e4
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaorch_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 18
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.9184953, y: 0.912836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4dd17e64a4adc499c2043a39080895
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaorch_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 92
+        width: 100
+        height: 36
+      alignment: 9
+      pivot: {x: 0.49496064, y: 0.7799462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8ce7d3e563853408ba58716b3006b3
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaorch_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 50
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49011922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1682bbed28d7942b753fde4153eac7
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1024eefe54f680746ba688e5a358774b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

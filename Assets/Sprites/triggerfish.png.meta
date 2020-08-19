@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: c14f8299af745da4699f723c7821b277
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: triggerfish_0
+  - first:
+      213: 21300002
+    second: triggerfish_1
+  - first:
+      213: 21300004
+    second: triggerfish_2
+  - first:
+      213: 21300006
+    second: triggerfish_3
+  - first:
+      213: 21300008
+    second: triggerfish_4
+  - first:
+      213: 21300010
+    second: triggerfish_5
+  - first:
+      213: 21300012
+    second: triggerfish_6
+  - first:
+      213: 21300014
+    second: triggerfish_7
+  - first:
+      213: 21300016
+    second: triggerfish_8
+  - first:
+      213: 21300018
+    second: triggerfish_9
+  - first:
+      213: 21300020
+    second: triggerfish_10
+  - first:
+      213: 21300022
+    second: triggerfish_11
+  - first:
+      213: 21300024
+    second: triggerfish_12
+  - first:
+      213: 21300026
+    second: triggerfish_13
+  - first:
+      213: 21300028
+    second: triggerfish_14
+  - first:
+      213: 21300030
+    second: triggerfish_15
+  - first:
+      213: 21300032
+    second: triggerfish_16
+  - first:
+      213: 21300034
+    second: triggerfish_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: triggerfish_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 335
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a5352bd744128468670da2bd387529
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 320
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd5952df19154048a3bf383623891dc
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 321
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7203e9a6092ab924b9aaccf98b98cfd0
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 293
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162041e61742e3947b74841a6d56bb78
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 286
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6662b32340bbea34cbe75bad815881f9
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 287
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49eedf375f078494592ffc47480752bf
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 95
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68ee87edb57ad54480fa1156efd0509
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 244
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a67b482ac945c4b9074ab1d14dba87
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 155
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4606a323caccc1046aefa224cd19e921
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 154
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6237194dd4c3e434188d3c6ebc622738
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 91
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.0867774, y: 0.14938632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ad61ff6298a284e907148b665ff54d
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfde471b794195b4a9bbf11097d4f04d
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 106
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.52951485, y: 0.74104756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db2fd510b4e62f4fa3b2c85b4d16068
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 41
+        width: 34
+        height: 44
+      alignment: 9
+      pivot: {x: 0.82814765, y: 0.4436513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b110bf26f6d23574aad078c25a5c57e8
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 41
+        width: 34
+        height: 44
+      alignment: 9
+      pivot: {x: 0.17185256, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc7fc16ee04f364c9ca155ce557d21b
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 83
+        width: 13
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5953604, y: 0.7410469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb4749c98bd9234bb65fc4761b985c9
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 38
+        width: 14
+        height: 21
+      alignment: 9
+      pivot: {x: 0.47048298, y: 0.736128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd296b1219fbc0458956f1b5a177a80
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: triggerfish_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 14
+        width: 14
+        height: 23
+      alignment: 9
+      pivot: {x: 0.4999989, y: 0.8233928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acdfbca6637ac841813d1dcd6c07c8e
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c96a158feb676fa498a39396c725c259
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

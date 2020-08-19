@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Weapon
+  - Pickup
+  - patrolPoints
+  - Boss
+  - Wall
+  - Turrent
+  - Shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Walls
+  - Boss
+  - ArmorText
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Body
+    uniqueID: 3550068893
+    locked: 0
+  - name: Items
+    uniqueID: 1703301285
+    locked: 0
+  - name: turrents
+    uniqueID: 414727777
+    locked: 0
+  - name: Starts
+    uniqueID: 2473767347
+    locked: 0
+  - name: Player
+    uniqueID: 2262738355
+    locked: 0
+  - name: Cursor
+    uniqueID: 1478507681
+    locked: 0
